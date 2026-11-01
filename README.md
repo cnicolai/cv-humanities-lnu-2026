@@ -19,8 +19,9 @@ difficulty.
 3. Run the cells one at a time with Shift+Enter. If Colab warns that the notebook was not
    authored by Google, choose *Run anyway*.
 
-Each notebook carries its own pages, so it needs no other file, and all three run on Colab's
-free processor. In notebook 03, the cell that trains the network takes a few minutes.
+The first code cell of notebooks 01 and 03 downloads their pages from this repository's `data`
+folder; there is nothing else to fetch. All three run on Colab's free processor. In notebook 03,
+the cell that trains the network takes a few minutes.
 
 ## Sources
 

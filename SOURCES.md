@@ -1,6 +1,6 @@
 # Where the pages come from
 
-Every page and scan packed into the notebooks is public domain. The pages were made grey and
+Every page and scan the notebooks use is public domain. The pages were made grey and
 resized to a long edge of 1200 pixels, and two of them were levelled by about a third of a degree.
 The scans were cut to their sheet, made grey and resized the same way, and never turned.
 
