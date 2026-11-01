@@ -1,9 +1,14 @@
-# Computer vision for the humanities: the workshop notebooks
+# Computer vision for the humanities
 
-Three notebooks for the workshop after the lecture *Introducing computer vision for the
-humanities* (Linnaeus University, November 2026). They run in Google Colab, in your browser:
-there is nothing to install, and a free Google account is enough. They are ordered by
-difficulty.
+Material for the lecture *Introducing computer vision for the humanities* (Linnaeus University,
+3 November 2026) and for the workshop the day after.
+
+**The lecture handout:** [handout.pdf](handout.pdf), the lecture in twenty pages.
+
+## Workshop notebooks
+
+Three notebooks, ordered by difficulty. They run in Google Colab, in your browser: there is
+nothing to install, and a free Google account is enough.
 
 | notebook | what you do | |
 |---|---|---|
@@ -11,7 +16,7 @@ difficulty.
 | **02 The learning loop** | run the loop from the lecture on twelve points and turn its knobs: the step size, the number of parameters, the amount of training data | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cnicolai/cv-humanities-lnu-2026/blob/main/notebooks/02-learning-loop.ipynb) |
 | **03 Straighten the scans** | make training data from pages known to be straight, train a small neural network, and let it straighten six crooked scans | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cnicolai/cv-humanities-lnu-2026/blob/main/notebooks/03-straighten.ipynb) |
 
-## How to start
+### How to start
 
 1. Click *Open in Colab* beside a notebook and sign in with your Google account.
 2. Choose *File → Save a copy in Drive*. Your copy opens in a new tab: work there, because changes
