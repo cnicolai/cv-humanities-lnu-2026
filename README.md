@@ -19,11 +19,21 @@ laptop.
 - **The guide:** [read-a-letter-page.pdf](read-a-letter-page.pdf), one step per page.
 - **The letters:** [letters.zip](https://raw.githubusercontent.com/cnicolai/cv-humanities-lnu-2026/main/letters.zip):
   three letter pages, each as a scan and as transcribed, and `cer.html`, which counts the
-  model's errors. Unzip it and double-click `cer.html`; it opens in your browser and works offline.
-- **LM Studio** from [lmstudio.ai](https://lmstudio.ai), on a Mac with Apple Silicon and macOS 14
-  or newer, or on a Windows laptop, with at least 8 GB of memory. Step 0 of the guide says
-  which Gemma 4 model fits your laptop. If you can, install LM Studio and download the model
-  before the workshop: the larger ones take long over a shared Wi-Fi.
+  model's errors. Unzip it and double-click `cer.html`. It opens in your browser and works offline.
+
+### Install LM Studio and Gemma 4
+
+If you can, do this before the workshop: the download takes a while over a shared Wi-Fi.
+
+LM Studio runs on a Mac with Apple Silicon and macOS 14 or newer, or on a Windows laptop, with at
+least 8 GB of memory. It does not run on an Intel Mac: take the notebooks instead, or pair up
+with someone.
+
+1. Download LM Studio from [lmstudio.ai](https://lmstudio.ai) and install it.
+2. In LM Studio, open *Model Search* and search for `gemma-4`.
+3. Download **Gemma 4 E2B**, a good first choice that runs with 8 GB of memory:
+   - on a Mac, the **MLX** version in **4-bit** (about 4.3 GB)
+   - on Windows, the **GGUF** version in **`Q4_K_M`** (about 4.4 GB)
 
 ## Three notebooks, in Colab
 
@@ -46,10 +56,10 @@ nothing to install, and a free Google account is enough. The short guide:
    authored by Google, choose *Run anyway*.
 
 The first code cell of notebooks 01 and 03 downloads their pages from this repository's `data`
-folder; there is nothing else to fetch. All three run on Colab's free processor. In notebook 03,
+folder. There is nothing else to fetch. All three run on Colab's free processor. In notebook 03,
 the cell that trains the network takes a few minutes.
 
 ## Sources
 
-All pages, scans and letters are public domain; [SOURCES.md](SOURCES.md) says where each one
+All pages, scans and letters are public domain. [SOURCES.md](SOURCES.md) says where each one
 comes from.
