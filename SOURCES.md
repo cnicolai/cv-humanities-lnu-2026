@@ -47,3 +47,15 @@ The scans were cut to their sheet, made grey and resized the same way, and never
 | `scan-04.jpg` | George Stephens to Joseph Stephens, Copenhagen, 4 September 1867, page 2 | Husebyarkivet, Linnaeus University (via Alvin) | public domain (Alvin: Public Domain Mark 1.0) | <https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:521302> |
 | `scan-05.jpg` | William Rowntree to William Lloyd Garrison, Scarborough, 28 November 1877, page 1 | Boston Public Library, Anti-Slavery Collection (via Digital Commonwealth) | public domain (BPL: No known copyright restrictions; no known restrictions on use) | <https://www.digitalcommonwealth.org/search/commonwealth:5h7408781> |
 | `scan-06.jpg` | George Stephens to Joseph Stephens, Copenhagen, 7 July 1868, page d (Joseph Stephens arkiv, E I:3a) | Husebyarkivet, Linnaeus University (via Alvin) | public domain (Alvin: Public Domain Mark 1.0) | – |
+
+## Letters (letters.zip, for the LM Studio guide)
+
+Each page as scanned (colour, 1500 pixels high) and as transcribed, one line per written line.
+The transcriptions were made for the master's thesis *Reading the Crossed Page: Making
+Cross-Written Letters Accessible in Content and Form* (Christoph Nicolai, Linnaeus University, 2026).
+
+| files | page | holder | licence |
+|---|---|---|---|
+| `1-joseph-1868-03-27.jpg`, `.txt` | Joseph Stephens to his father George, 27 March 1868, page D | Husebyarkivet, Linnaeus University (via Alvin) | public domain (Alvin: Public Domain Mark 1.0) |
+| `2-joseph-1869-01-29.jpg`, `.txt` | Joseph Stephens to his father George, 29 January 1869, page D | Husebyarkivet, Linnaeus University (via Alvin) | public domain (Alvin: Public Domain Mark 1.0) |
+| `3-george-1868-07-07.jpg`, `.txt` | George Stephens to his son Joseph, Copenhagen, 7 July 1868, page 1a | Husebyarkivet, Linnaeus University (via Alvin) | public domain (Alvin: Public Domain Mark 1.0) |

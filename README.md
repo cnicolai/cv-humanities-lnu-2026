@@ -5,10 +5,31 @@ Material for the lecture *Introducing computer vision for the humanities* (Linna
 
 **The lecture handout:** [handout.pdf](handout.pdf), the lecture in twenty pages.
 
-## Workshop notebooks
+## Workshop
+
+Two paths: read handwritten letters with a language model on your own laptop, or work through
+three notebooks in your browser. Take one, or both one after the other.
+
+## Read a letter page, in LM Studio
+
+A language model on your own laptop reads letters from the 1860s. You measure how wrong it is,
+write a better prompt, and try it on the next letter. There is no code, and nothing leaves your
+laptop.
+
+- **The guide:** [read-a-letter-page.pdf](read-a-letter-page.pdf), one step per page.
+- **The letters:** [letters.zip](https://raw.githubusercontent.com/cnicolai/cv-humanities-lnu-2026/main/letters.zip):
+  three letter pages, each as a scan and as transcribed, and `cer.html`, which counts the
+  model's errors. Unzip it and double-click `cer.html`; it opens in your browser and works offline.
+- **LM Studio** from [lmstudio.ai](https://lmstudio.ai), on a Mac with Apple Silicon and macOS 14
+  or newer, or on a Windows laptop, with at least 8 GB of memory. Step 0 of the guide says
+  which Gemma 4 model fits your laptop. If you can, install LM Studio and download the model
+  before the workshop: the larger ones take long over a shared Wi-Fi.
+
+## Three notebooks, in Colab
 
 Three notebooks, ordered by difficulty. They run in Google Colab, in your browser: there is
-nothing to install, and a free Google account is enough.
+nothing to install, and a free Google account is enough. The short guide:
+[three-notebooks.pdf](three-notebooks.pdf).
 
 | notebook | what you do | |
 |---|---|---|
@@ -30,4 +51,5 @@ the cell that trains the network takes a few minutes.
 
 ## Sources
 
-All pages and scans are public domain; [SOURCES.md](SOURCES.md) says where each one comes from.
+All pages, scans and letters are public domain; [SOURCES.md](SOURCES.md) says where each one
+comes from.
