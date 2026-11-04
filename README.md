@@ -10,13 +10,13 @@ Material for the lecture *Introducing computer vision for the humanities* (Linna
 Two paths: read handwritten letters with a language model on your own laptop, or work through
 three notebooks in your browser. Take one, or both one after the other.
 
-## Read a letter page, in LM Studio
+## HTR with a local LLM, in LM Studio
 
 A language model on your own laptop reads letters from the 1860s. You measure how wrong it is,
 write a better prompt, and try it on the next letter. There is no code, and nothing leaves your
 laptop.
 
-- **The guide:** [read-a-letter-page.pdf](read-a-letter-page.pdf), one step per page.
+- **The guide:** [Local LLM HTR.pdf](Local%20LLM%20HTR.pdf), one step per page.
 - **The letters:** [letters.zip](https://raw.githubusercontent.com/cnicolai/cv-humanities-lnu-2026/main/letters.zip):
   three letter pages, each as a scan and as transcribed, and `cer.html`, which counts the
   model's errors. Unzip it and double-click `cer.html`. It opens in your browser and works offline.
@@ -39,7 +39,7 @@ with someone.
 
 Three notebooks, ordered by difficulty. They run in Google Colab, in your browser: there is
 nothing to install, and a free Google account is enough. The short guide:
-[three-notebooks.pdf](three-notebooks.pdf).
+[Computer Vision Notebooks.pdf](Computer%20Vision%20Notebooks.pdf).
 
 | notebook | what you do | |
 |---|---|---|
